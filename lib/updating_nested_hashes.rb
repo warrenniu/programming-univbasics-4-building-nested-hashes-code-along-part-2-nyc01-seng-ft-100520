@@ -25,7 +25,6 @@ def update_status
 epic_tragedy[:hero][:status] = "dead"
 # epic_tragedy[:heroine][:status] = "dead"
 
-puts epic_tragedy
 
 
 
